@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "emre",
+      "surname": "bol",
+      "studentNo": "52",
+      "studentClass": "5/b",
+      "schoolName": "cumhurıyet il"
+    },
+    {
+      "id": "2",
+      "name": "emre",
+      "surname": "bol",
+      "studentNo": "52",
+      "studentClass": "5/b",
+      "schoolName": "cumhurıyet il"
+    },
+    {
+      "id": "1672405381359",
+      "name": "index",
+      "surname": "daydaş",
+      "studentClass": "5/b",
+      "schoolName": "uludağ universitesi",
+      "studentNo": "25"
+    }
+  ]
+}
